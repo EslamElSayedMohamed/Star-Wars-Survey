@@ -4,4 +4,4 @@ While waiting for Star Wars: The Force Awakens to come out, the team at FiveThir
 
 The team needed to collect data addressing this question. To do this, they surveyed Star Wars fans using the online tool SurveyMonkey. They received 835 total responses.
 
-** For this project **, you'll be cleaning and exploring the data set in Jupyter notebook
+**For this project**, you'll be cleaning and exploring the data set in Jupyter notebook
